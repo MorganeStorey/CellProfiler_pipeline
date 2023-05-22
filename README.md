@@ -12,6 +12,6 @@ Two example images are avaible in the example_images file to test the pipeline f
 
 https://cellprofiler.org/releases
 
-Once downloaded, open the .cpproj file with CellProfiler and drag and drop the images from the example_images file into the first module ("Images"). The pipeline can be run either in one go (press "Analyze images" button) or one step at a time (press "Start Test Mode" button). To understand the way each module functions, I recommend running the pipeline in Test Mode after clicking the eye icons next to each module to show the output of each module. 
+Once downloaded, open the .cpproj file with CellProfiler and drag and drop the images from the example_images file into the first module ("Images"). The pipeline can be run either in one go (press "Analyze images" button) or one step at a time (press "Start Test Mode" button). To understand the way each module functions, I recommend running the pipeline in Test Mode after clicking the eye icons next to each module to show the output of each module. I have included a brief description of the purpose of each module in the comment box to help comprehension (top right of the CellProfiler interface).
 
 The pipeline was developed in CellProfiler v4.2.1. 
